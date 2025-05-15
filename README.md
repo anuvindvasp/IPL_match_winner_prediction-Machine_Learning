@@ -1,5 +1,7 @@
 # IPL_match_winner_prediction
 
+![image](https://github.com/user-attachments/assets/94e6b5a2-c229-4893-bbff-be4a6f41dd93)
+
 **INTRODUCTION**
 
 The Indian Premier League (IPL) is one of the world’s most popular and competitive professional T20 cricket leagues. The franchise-based teams representing Indian cities/states with top International and Domestics players
