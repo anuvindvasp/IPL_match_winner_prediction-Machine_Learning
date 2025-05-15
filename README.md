@@ -13,4 +13,25 @@ The best model must be selected after evaluating the performance and hyperparame
 
 **WORK FLOW**
 
-![image](https://github.com/user-attachments/assets/52529406-b47d-44bb-ba92-a2e833446d9c)
+📥 DATA COLLECTION
+🧹 DATA PREPROCESSING
+📊 EXPLORATORY DATA ANALYSIS (EDA)
+⚙️ MODEL BUILDING
+🔧 HYPERPARAMETER TUNING
+🏁 MODEL EVALUATION & SELECTION
+💾 MODEL SAVING
+
+**MODELING PROCESS**
+
+o List of models used : 
+   Logistic Regression, SVM, KNN, Random Forest, Decision Tree, XG Boost 
+
+o Hyperparameter tuning approach :
+   Grid Searchcv, Randomized Searchcv
+
+o Evaluation metrics :
+   accuracy, precision, recall, F1-Score
+
+
+
+
